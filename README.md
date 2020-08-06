@@ -1,6 +1,6 @@
-# webIDE
-在线前端HTML代码编辑器  ** [在线预览](https://tuchongyang.github.io/webIDE/) **
+# RelaxIDE
+
+A relaxing IDE to releave you off the stress while coding.
 
 
-#### 截图
-![截图](https://github.com/tuchongyang/webIDE/blob/master/screenshot.jpg?raw=true)
+based on: https://tuchongyang.github.io/webIDE/
